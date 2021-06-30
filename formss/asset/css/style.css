@@ -1,0 +1,23 @@
+.container{
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: row;
+    /* display: table-caption; */
+    justify-content: center;
+    /* margin: auto; */
+    width: 230px;
+    height: 274px;
+    /* margin: auto; */
+    align-items: center;
+}
+form{
+    font-size: 27px;
+    margin: 18px;
+}
+body{
+    width: 4px;
+    height: 4px;
+    margin: auto;
+    margin-top: 23vh;
+
+}
